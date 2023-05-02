@@ -2,9 +2,9 @@
 As an application of Linear Algebra, a course we had in semester 4, we asked to make a project in any suitable domain. We chose Neural networks from the Deep Learning as our domain as the calculations happening in the network, while training or testing, are in a form of matrixes. We were group of 3 who learnt this new subject from the scratch and got the essence of the mechanism. Although could not submit a good final report, me did our best while making a power point presentation that we had presented before our professor. We Acknowledge 3Blue1Brown channel as its playlist on a neural networks were became lighthouse for us with its rich and easy to learn animation videos.
 
 
-[PPT](https://github.com/tankotkirn/Handwritten-Digit-Recognition-System-using-Deep-Learning_Linear-Algebra/blob/main/FinalPPT.pptx)
-[Report](https://github.com/tankotkirn/Handwritten-Digit-Recognition-System-using-Deep-Learning_Linear-Algebra/blob/main/End%20Sem__Report.pdf)
-[Code](https://github.com/tankotkirn/Handwritten-Digit-Recognition-System-using-Deep-Learning_Linear-Algebra/blob/main/final_python.ipynb)
+• [PPT](https://github.com/tankotkirn/Handwritten-Digit-Recognition-System-using-Deep-Learning_Linear-Algebra/blob/main/FinalPPT.pptx) <br/>
+• [Report](https://github.com/tankotkirn/Handwritten-Digit-Recognition-System-using-Deep-Learning_Linear-Algebra/blob/main/End%20Sem__Report.pdf) <br/>
+• [Code](https://github.com/tankotkirn/Handwritten-Digit-Recognition-System-using-Deep-Learning_Linear-Algebra/blob/main/final_python.ipynb) <br/>
 ## Topic: Hand written digits recognition using Neural Network
 Group Number: 11
 Group Name: Dhi
